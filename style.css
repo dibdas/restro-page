@@ -6,10 +6,10 @@
 navbar{
     display: flex;
     justify-content: space-between;
-    width: 80vw;
+    width: 95vw;
     margin-inline: auto;
     padding-block: 0.4rem;
-    background-color: aqua;
+    color: black;
 }
 h2{
     text-transform: uppercase;
